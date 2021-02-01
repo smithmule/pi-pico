@@ -31,7 +31,7 @@ oled.text("MicroPython", 15, 0)
 oled.text("on Pi Pico", 20, 10)
 oled.text("OLED+TEMP+THREAD", 0, 30)
 oled.text("v0.2", 40,40)
-oled.text("01/02 2011", 25, 50)
+oled.text("01/02 2021", 25, 50)
 oled.show()
 time.sleep(5)
 
